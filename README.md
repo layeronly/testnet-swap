@@ -1,18 +1,12 @@
 # OnlySwap Interface
 
-An open source interface for OnlySwap -- a protocol for decentralized exchange of Ethereum tokens.
+An open source interface for OnlySwap -- a protocol for decentralized exchange of Optimism tokens.
 
 - Website       : [OnlyLayer](https://onlylayer.com/)
 - Interface     : [OnlySwap](https://onlyswap.org/)
 - Whitepaper    : [Docs Only](https://only-layer.gitbook.io/only-layer/)
 - Twitter       : [Twitter](https://x.com/onlylayer)
 - Discord       : [Discord](https://discord.gg/EphNbybAgb)
-
-## Social Media the OnlySwap
-
----
-[Website](https://onlylayer.com/) <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="Website" align=left width=24 />
----
 
 ## Development
 
