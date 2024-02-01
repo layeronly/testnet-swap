@@ -11,9 +11,7 @@ An open source interface for OnlySwap -- a protocol for decentralized exchange o
 ## Social Media the OnlySwap
 
 ---
-[![Website](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1200px-Globe_icon.svg.png)](https://onlylayer.com/)[1]
-[![Interface](https://cdn-icons-png.flaticon.com/512/2644/2644370.png)](https://onlyswap.org/)[2]
-[![Whitepaper](https://cdn-icons-png.freepik.com/512/2702/2702154.png)](https://only-layer.gitbook.io/only-layer/)[3]
+[![Website](https://onlylayer.com/)] <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="Website" align=left width=24 />
 ---
 
 ## Development
